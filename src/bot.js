@@ -37,7 +37,7 @@ const { loadCommands } = require('./handlers/CommandHandler');
 const { loadComponents } = require('./handlers/ComponentHandler');
 
 /* Client Login */
-client.login(client.config.token)
+client.login("MTAyNTQ1MTI0MzE3NjQ3NjY3Mg.GnNdOm.gpeuyOQ_Dm-Y01lcjDdICb70rZMer0D-3N_UsI")
 .then(() => {
     /* Start Handler */
     loadEvents(client);
