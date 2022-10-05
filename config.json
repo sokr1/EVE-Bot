@@ -1,12 +1,12 @@
 {
-    "token": "MTAyNTQ1MTI0MzE3NjQ3NjY3Mg.GnNdOm.gpeuyOQ_Dm-Y01lcjDdICb70rZMer0D-3N_UsI",
+    "token": "DISCORD BOT TOKEN",
     "color": "#34a6ef",
     "developerGuild": "944564472087994448",
-    "database": "mongodb+srv://YassineHzz:YassineHzz@cluster0.vo589.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "database": "mongodb+srv://YassineHzz1:YassineHzz1@cluster0.dugrm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "supportServer": "",
     "activityInterval": 5,
     "activities": [
-        "",
-        ""
+        "/invite | Watching {servercount} Server",
+        "Created by maxツ#8355"
     ]
 }
