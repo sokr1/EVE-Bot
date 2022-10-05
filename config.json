@@ -1,5 +1,5 @@
 {
-    "token": "DISCORD BOT TOKEN",
+    "token": "",
     "color": "#34a6ef",
     "developerGuild": "DISCORD GUILD ID",
     "database": "MONGO-DB Link",
